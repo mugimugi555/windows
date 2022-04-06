@@ -8,4 +8,6 @@
 
 [windows6.1-kb3020369-x64_5393066469758e619f21731fc31ff2d109595445.msu ( 9.6MB )](https://www.microsoft.com/ja-JP/download/details.aspx?id=46827)
 
-install 4 files and reboot and next , do Windows update.
+[windows6.1-kb4490628-x64_d3de52d6987f7c8bdc2c015dca69eac96047c76e.msu ( 9.1MB )](https://www.catalog.update.microsoft.com/search.aspx?q=kb4490628)
+
+install 5 files and reboot and next , do Windows update.
